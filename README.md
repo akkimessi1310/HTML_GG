@@ -2,7 +2,7 @@
 <!DOCTYPE html> 
 <html>
 <head>
-<title> Shivaji College</title></head>
+<title> Shivaji College </title> </head>
 <body>
 <h1>Akshit Manchanda</h1>
 <h2>BA(H) Business Economics</h2>
